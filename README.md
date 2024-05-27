@@ -29,7 +29,6 @@
 </a>
 </p>
 
-<h3 align="center">👨‍💻 My Coding Life :)</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="480" height="270" />
 </p>
