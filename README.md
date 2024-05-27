@@ -5,8 +5,6 @@
 
 - 👨‍💻 You can check out my portfolio at [m-gw.com](http://m-gw.com)
 
-- 📫 How to reach me: [Email](mailto:mohamd.abdulwahid@outlook.com)
-
 - ⚡ Fun fact: I can solve a Rubik's cube under 1 minute.
 
 - 💜 My favorite theme is **Dracula**.
